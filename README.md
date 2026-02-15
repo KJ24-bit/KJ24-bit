@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kyra 👋
 
-<!--
-**KJ24-bit/KJ24-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Software Engineer | Code First Girls Tech Taster Participant
 
-Here are some ideas to get you started:
+I am currently transitioning into software engineering and building skills in Python, JavaScript, and computer science fundamentals through Code First Girls and independent learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning:
+- Python
+- JavaScript
+- Programming fundamentals
+- Computer science concepts
+
+## My goals:
+- Build software engineering projects
+- Develop strong programming skills
+- Progress into a Software Engineering role
+
+## Connect with me:
+- LinkedIn: https://www.linkedin.com/in/kyra-jackson
+
+
